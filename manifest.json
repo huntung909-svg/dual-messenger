@@ -27,5 +27,37 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ]
+  ],
+  "screenshots": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Dual Messenger - WhatsApp Web Optimal"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Dual Messenger - Akses Mudah"
+    }
+  ],
+  "categories": ["communication", "productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Buka WhatsApp Web",
+      "short_name": "Buka WA",
+      "description": "Langsung buka WhatsApp Web",
+      "url": "/",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
 }
