@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.dual_messenger.twa",
+        "sha256_cert_fingerprints": ["55:5F:D2:5E:41:A1:02:01:CD:57:AF:99:E5:A7:AF:44:39:3C:96:32:18:8E:F6:C0:AB:41:4F:C6:B8:D5:77:11"]
+      }
+    }]
