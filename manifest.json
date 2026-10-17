@@ -1,0 +1,33 @@
+{
+  "name": "Dual Messenger - WhatsApp Web Access",
+  "short_name": "DualMessenger",
+  "description": "Akses WhatsApp Web dengan tampilan optimal untuk semua perangkat Android, termasuk tablet dan perangkat non-sertifikasi.",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111b21",
+  "theme_color": "#111b21",
+  "icons": [
+    {
+      "src": "placeholder-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "placeholder-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "placeholder-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
